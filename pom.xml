@@ -8,16 +8,17 @@
 		<version>2.7.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>org.opencsd</groupId>
 	<artifactId>OpenCSD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>OpenCSD</name>
 	<description>First Iteration</description>
 	<properties>
-		<java.version>17</java.version>
-		<spring-cloud.version>2021.0.4</spring-cloud.version>
-		<testcontainers.version>1.17.4</testcontainers.version>
+		<java.version>11</java.version>
 	</properties>
+
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
